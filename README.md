@@ -13,7 +13,7 @@
   
   <p align="center">
     A cross-platform relationship tracker built with a clean <b>Monospaced</b> aesthetic.<br/>
-    Available on <b>Web</b>, <b>Desktop (Windows/Mac)</b>, and <b>Mobile (iOS/Android)</b>.
+    Available on <b>Web</b>, and <b>Desktop (Windows/Mac)</b>.
   </p>
 
 </div>
@@ -44,7 +44,6 @@ I wanted a minimalistic, "always-on" display that could live on my lock screen, 
 * **Language:** TypeScript
 * **Styling:** Tailwind CSS v4 (CSS Variables)
 * **Desktop Wrapper:** Electron.js
-* **Mobile Scripting:** JavaScript (Scriptable API)
 
 ---
 
