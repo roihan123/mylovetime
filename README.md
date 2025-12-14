@@ -8,7 +8,6 @@
   [![React](https://img.shields.io/badge/React-19.0-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
   [![Tailwind CSS](https://img.shields.io/badge/Tailwind_v4-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
   [![Electron](https://img.shields.io/badge/Electron-Desktop-47848F?style=for-the-badge&logo=electron&logoColor=white)](https://www.electronjs.org/)
-  [![Scriptable](https://img.shields.io/badge/iOS-Scriptable-blue?style=for-the-badge&logo=apple&logoColor=white)]()
 
   <br />
   
