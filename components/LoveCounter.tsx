@@ -5,6 +5,7 @@ import { TimeBreakdown, ModalType } from "./types";
 import TotalDaysBox from "./TotalDaysBox";
 import SinceBox from "./SinceBox";
 import InfoModal from "./InfoModal";
+import Footer from "./Footer";
 
 // --- Configuration ---
 const START_DATE = "2025-10-01T13:45:23"; 
@@ -108,6 +109,7 @@ export default function LoveCounter() {
       >
         Theme
       </button>
+      <Footer />
 
     </div>
   );
