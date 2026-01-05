@@ -5,7 +5,7 @@ export default function Footer() {
     <div className="fixed bottom-4 right-4 text-xs md:text-sm font-bold opacity-50 hover:opacity-100 transition-opacity z-10">
       <span>created by </span>
       <a 
-        href="https://roihan123.netlify.app" 
+        href="https://roihan123.xyz" 
         target="_blank" 
         rel="noopener noreferrer"
         className="underline decoration-dotted hover:decoration-solid hover:text-[var(--box-border)]"
