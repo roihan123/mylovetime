@@ -53,7 +53,7 @@ I wanted a minimalistic, "always-on" display that could live on my lock screen, 
 
 ```bash
 # Clone the repository
-git clone [https://github.com/yourusername/mylovetime.git](https://github.com/yourusername/mylovetime.git)
+git clone [https://github.com/roihan123/mylovetime.git](https://github.com/roihan123/mylovetime.git)
 
 # Install dependencies
 npm install
